@@ -1,6 +1,17 @@
-#main-info{
+.main-info{
   font-size: 34px;
 }
+ .ab{
+  text-indent: 20px!important;
+}
+.lh{
+  line-height: 0.9em!important;
+}
+@font-face {
+    font-family:'Source Sans Pro';
+    src: url("Fonts/Source Sans Pro/SourceSansPro-Regular.ttf") format('truetype');
+}
 body{
-  font-family: 'Source Sans Pro', sans-serif !important;
+  text-align: justify;
+  font-family: 'Source Sans Pro', sans-serif;
 }
